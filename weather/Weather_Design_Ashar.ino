@@ -21,7 +21,7 @@ char network[] = "Help";  //SSID for 6.08 Lab
 char password[] = "passwordhereiguess"; //Password for 6.08 Lab
 char city[] = "Cambridge";
 char state_geo[] = "Massachusetts";
-char appid[] = "b53b437dfdf36c11d865ccb771a8833e";
+// char appid[] = "something";
 char request_link[250];
 char* beginDivide;
 char delimeter[]="{";
